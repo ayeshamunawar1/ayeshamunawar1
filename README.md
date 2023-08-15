@@ -1,5 +1,5 @@
 # 💫 About Me:
-👩‍💻🚀 BSCS Student <br>Web Development & AI Enthusiast <br> AICP Executive Member | <br>Codcrafters Ambassador | <br>Passionate about crafting immersive<br> digital experiences through code. <br>Currently diving deep into the realms of <br>web development and AI, exploring <br>the endless possibilities they offer.<br> Constantly learning, growing, and <br>building to make a positive impact <br>in the tech world. <br>Let's connect and collaborate to<br> create a future powered by innovation<br> and creativity! 🌟💡 
+👩‍💻🚀 Intern @CodSoft | BSCS Student | Web Development & AI Enthusiast <br> AICP Executive Member | Codcrafters Ambassador | <br>Passionate about crafting immersive digital experiences through code. <br>Currently diving deep into the realms of <br>web development and AI, exploring <br>the endless possibilities they offer.<br> Constantly learning, growing, and <br>building to make a positive impact <br>in the tech world. <br>Let's connect and collaborate to<br> create a future powered by innovation<br> and creativity! 🌟💡 
 
 
 ## 🌐 Socials:
