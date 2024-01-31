@@ -1,6 +1,18 @@
 # 💫 About Me:
-👩‍💻🚀 Intern @CodSoft | BSCS Student | Web Development & AI Enthusiast <br> AICP Executive Member | Codcrafters Ambassador | <br>Passionate about crafting immersive digital experiences through code. <br>Currently diving deep into the realms of <br>web development and AI, exploring <br>the endless possibilities they offer.<br> Constantly learning, growing, and <br>building to make a positive impact <br>in the tech world. <br>Let's connect and collaborate to<br> create a future powered by innovation<br> and creativity! 🌟💡 
+🚀 Welcome to my GitHub universe! 🌐
+
+🎓 Pursuing BSCS '25 | 💻 Web Developer | 🌐 CodCrafters Ambassador | Former Campus Ambassador at AICP | Founder & Lead of Tech Minds Community<br>
+
+🌟 Exploring the boundaries of tech excellence, I am passionate about innovation, coding, and community building. My journey in the realm of Computer Science is an ongoing adventure, where I leverage the power of code to create, innovate, and contribute to the tech community.<br>
+
+🔧 Embracing the art of crafting web solutions and fostering connections as a CodCrafters Ambassador. Formerly, I championed the tech spirit as a Campus Ambassador at AICP, amplifying the voice of innovation on campus.<br>
+
+👨‍💻 Founder & Lead of Tech Minds Community, where like-minded individuals converge to share knowledge, collaborate, and embark on tech adventures together.<br>
+ Constantly learning, growing, and building to make a positive impact in the tech world.<br>
+Join me on this coding odyssey as I strive to push the boundaries, learn, and collaborate on exciting projects. Let's code the future together! 🌈💻✨<br>
 https://visit-my-portfolio.netlify.app/
+#WebDevelopment #TechInnovation #OpenSource #CommunityBuilding #CodingAdventures
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/m_aisha786) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayesha-munawar-34aab9237/)) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/aisha2334194740) 
